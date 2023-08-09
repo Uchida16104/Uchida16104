@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![hearthis.at](https://app.hearthis.at/hirotoshi-uchida-2nd/embed)](https://hearthis.at/hirotoshi-uchida-2nd)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uchida16104&theme=dark)
