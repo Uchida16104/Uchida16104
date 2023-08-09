@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe scrolling="no" id="hearthis_at_user_hirotoshi-uchida" width="100%" height="350" src="https://app.hearthis.at/hirotoshi-uchida/embed/?hcolor=ba1010&amp;css=&amp;skin=black" frameborder="0" allowtransparency=""></iframe>
+<object scrolling="no" id="hearthis_at_user_hirotoshi-uchida" width="100%" height="350" src="https://app.hearthis.at/hirotoshi-uchida/embed/?hcolor=ba1010&amp;css=&amp;skin=black" frameborder="0" allowtransparency=""></object>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uchida16104&theme=dark)
