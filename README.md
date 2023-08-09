@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uchida16104&theme=dark&utcOffset=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-user-contribution.svg" />
