@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄</h1>
 <h3 align="center">I mainly upload my portfolio at here.</h3>
 
 - 🌱 I’m currently learning **mainly php or sql knowledges.**
