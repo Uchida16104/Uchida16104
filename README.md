@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **western music history, or making art contents (includes creative coding), etc...**
 
-- 📄 Know about my experiences [https://g.co/kgs/QZYfA8](https://g.co/kgs/QZYfA8)
+- 📄 Know about [my experiences](https://g.co/kgs/QZYfA8)
 
 - ⚡ Anamnesis tag **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
 
