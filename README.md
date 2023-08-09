@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Instagram URL][badge-url]][instagram]
-
-[badge-url]: https://img.shields.io/instagram/url?label=%40hirotoshiuchida&style=social&url=https%3A%2F%2Finstagram.com%2Fhirotoshiuchida
-[twitter]: https://instagram.com/hirotoshiuchida
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uchida16104&theme=dark)
