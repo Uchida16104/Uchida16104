@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **mainly php or sql knowledges.**
 
-- 👨‍💻 All of my projects are [available](https://hearthis.at/hirotoshi-uchida)
+- 👨‍💻 All of my projects are <strong>[available](https://hearthis.at/hirotoshi-uchida)</strong>
 
 - 💬 Ask me about **western music history, or making art contents (includes creative coding), etc...**
 
