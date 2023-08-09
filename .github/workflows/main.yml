@@ -1,0 +1,12 @@
+name: gatsby-remark-responsive-iframe
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  job-with-mysql:
+    runs-on: ubuntu-latest
+    steps:
+      - name: install gatsby-remark-responsive-iframe
+        run: npm install gatsby-remark-responsive-iframe
