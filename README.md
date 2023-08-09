@@ -10,7 +10,7 @@
 
 - 📄 Know about [my experiences](https://g.co/kgs/QZYfA8)
 
-- ⚡ Anamnesis tag **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
+- ⚡ Anamnesis tag: **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
