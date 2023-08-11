@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uchida16104&theme=dark&utcOffset=8)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uchida16104&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&type=png&background=0%2C000000%2C00889C&border=000000&stroke=000000&ring=00FF04&fire=FF9D00&currStreakNum=FBFF00&sideNums=FBFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=8975FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uchida16104&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=0%2C000000%2C00889C&border=000000&stroke=000000&ring=00FF04&fire=FF9D00&currStreakNum=FBFF00&sideNums=FBFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=8975FF)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 
 ## Social Links
