@@ -1,7 +1,5 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-[![Edit typewriter-effect-emojis (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/typewriter-effect-emojis-forked-272yk3?fontsize=14&hidenavigation=1&theme=dark)
-
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄</h1>
 <h3 align="center">I mainly upload my portfolio at here.</h3>
 
