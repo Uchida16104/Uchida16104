@@ -10,12 +10,6 @@ jobs:
     name: profile
     
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.docker }}
-        with: 
-          USERNAME: ${{ github.repository_owner }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.docker }}
