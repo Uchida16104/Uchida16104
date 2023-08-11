@@ -1,6 +1,6 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<video autoplay src="https://cdn.glitch.me/728fc974-cce8-4afb-aace-d3a76249658d/profile.mp4"></video>
+<div><video controls src＝"https://cdn.glitch.me/728fc974-cce8-4afb-aace-d3a76249658d/profile.mp4"></video></div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄</h1>
 <h3 align="center">I mainly upload my portfolio at here.</h3>
