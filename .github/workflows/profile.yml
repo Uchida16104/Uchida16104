@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.docker }}
+          GITHUB_TOKEN: ${{ docker }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
