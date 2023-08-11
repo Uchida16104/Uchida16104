@@ -1,6 +1,11 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<div><video controls src＝"https://cdn.glitch.me/728fc974-cce8-4afb-aace-d3a76249658d/profile.mp4"></video></div>
+<iframe src="https://codesandbox.io/embed/typewriter-effect-emojis-forked-272yk3?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="typewriter-effect-emojis (forked)"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄</h1>
 <h3 align="center">I mainly upload my portfolio at here.</h3>
