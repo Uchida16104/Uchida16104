@@ -43,32 +43,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uchida16104&theme=dark&utcOffset=8)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Uchida16104&theme=dark)
-```json
-{
-  "mode": "daily",
-  "totalContributions": 2048,
-  "firstContribution": "2016-08-10",
-  "longestStreak": {
-    "start": "2021-12-19",
-    "end": "2022-03-14",
-    "length": 86
-  },
-  "currentStreak": {
-    "start": "2023-07-27",
-    "end": "2023-08-11",
-    "length": 16
-  },
-  "excludedDays": [
-    "Sun",
-    "Mon",
-    "Tue",
-    "Wed",
-    "Thu",
-    "Fri",
-    "Sat"
-  ]
-}
-```
 [![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 
 ## Social Links
