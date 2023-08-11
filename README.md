@@ -12,7 +12,7 @@
 
 - ⚡ Anamnesis tag: **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
 
-![profile](https://cdn.glitch.me/728fc974-cce8-4afb-aace-d3a76249658d/profile.gif?v=1691760334991)
+<img src="https://cdn.glitch.me/728fc974-cce8-4afb-aace-d3a76249658d/profile.gif?v=1691760334991">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
