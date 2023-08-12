@@ -12,7 +12,7 @@
 
 - ⚡ Anamnesis tag: **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
 
-<a href="https://272yk3.csb.app/">Show the animation above</a>
+<strong style="font-size:18px;"><a href="https://272yk3.csb.app/">Show the animation above</a></strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
