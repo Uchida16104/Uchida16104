@@ -1,5 +1,5 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
+<video controls playsinline width="100%" autoplay loop muted="true" src="profile.mp4" type="video/mp4" >Profile</video>
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄</h1>
 <h3 align="center">I mainly upload my portfolio at here.</h3>
 
