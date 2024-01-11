@@ -1,20 +1,14 @@
 name: generate animation
-
 on:
   # run automatically every 5 minutes
   schedule:
     - cron: "*/5 * * * *" 
-  
   # allows to manually run the job at any time
   workflow_dispatch:
-  
   # run on every push on the master branch
   push:
     branches:
     - main
-    
-  
-
 jobs:
   generate:
     permissions: 
@@ -24,6 +18,24 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Reset commits
+        run: git reset --hard
+      - name: Register user email
+        run: git config --global user.email "uho02741358@gmail.com"
+      - name: Register user name
+        run: git config --global user.name "Uchida16104"
+      - name: Remove files
+        run: git rm github-contribution-grid-snake-dark.svg
+      - name: Commit to remove files
+        run: git commit -m "Upload Zend framework 3 skeleton" -m "Use GitHub web GUI"
+      - name: Fetch to remove files
+        run: git fetch
+      - name: Merge to remove files
+        run: git merge
+      - name: Push to remove files
+        run: git push --force-with-lease origin main
+      - name: Initialize Git
+        run: git init
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,8 +45,12 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.SECRET }}
-          
-          
+      - name: Register files
+        run: git add .
+      - name: Commit files
+        run: git commit -m "Upload Zend framework 3 skeleton" -m "Use GitHub web GUI"
+      - name: Update files
+        uses: stefanzweifel/git-auto-commit-action@v4   
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -44,3 +60,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.SECRET }}
+      - name: Push files
+        run: git push --force-with-lease origin master
