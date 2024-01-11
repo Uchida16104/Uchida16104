@@ -49,4 +49,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SECRET }}
       - name: Push files
-        run: git push --force-with-lease origin master
+        run: git push --force-with-lease
