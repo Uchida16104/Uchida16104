@@ -18,8 +18,6 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Reset commits
-        run: git reset --hard
       - name: Register user email
         run: git config --global user.email "uho02741358@gmail.com"
       - name: Register user name
