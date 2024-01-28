@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uchida16104&theme=dark&utcOffset=9)
 ![Uchida16104's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uchida16104&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchida16104&langs_count=16&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Uchida16104&theme=dark&hide_border=true&ring=FF0E02&background=45%2C0D1117%2C181818&border=F3FF00&stroke=EB9B0000&fire=EB8900&currStreakNum=FFFA00&sideNums=00FF0C&currStreakLabel=00FBFF&sideLabels=FF00FB&dates=008DFF&excludeDaysLabel=FFFFFF00)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 ![](https://raw.githubusercontent.com/Uchida16104/Uchida16104/output/github-contribution-grid-snake-dark.svg)
