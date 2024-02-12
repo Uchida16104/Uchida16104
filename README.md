@@ -1,5 +1,10 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄
+  
+<a href="https://lit.link/hirotoshiuchida">![](https://img.shields.io/badge/lit.link-hirotoshiuchida-00FFFF)</a>
+
+</h1>
+
 <h3 align="center">I mainly upload my portfolio at here.</h3>
 
 - 🌱 I’m currently learning **mainly php or sql knowledges.**
@@ -48,9 +53,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchida16104&langs_count=3&theme=dark&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 ![](https://raw.githubusercontent.com/Uchida16104/Uchida16104/output/github-contribution-grid-snake-dark.svg)
-
-## Social Links
-<!-- From https://www.bugbugnow.net/p/app-blogcard-generator.html -->
-<blockquote class="blogcard" style="width:auto;border:1px solid #aaa;margin:1em 0;padding:1em;line-height:1.4;text-align:left;background:#fff;"><a href="https://lit.link/hirotoshiuchida" target="_blank" style="display:block;text-decoration:none;"><div style="width:100%;margin:0 0 .5em;"><span style="font-size:18px;font-weight:700;color:#333">lit.link</span></div><div style="min-height:50px;"><div style="float:left;width:50px;height:50px;margin:0 .5em;position:relative;"><img src="https://images.weserv.nl/?w=50&url=https://img.hearthis.at/1/6/6/_/uploads/10140206/image_user/w800_q70_----1663517971617.jpg" alt="thumbnail" style="display:block;margin:0;padding:0;width:100%;height:auto;border:none;position:absolute;top:50%;transform:translateY(-50%);"/></div><div style="padding:0 .5em;overflow:hidden;text-overflow:ellipsis;"><span style="font-size:14px;font-weight:400;color:#666">summarized my profile</span><br/><span style="font-size:12px;font-weight:400;color:#373">https://lit.link/hirotoshiuchida</span></div></div></a></blockquote>
 <br>
 <h3 align="left">Best Regards! 😃</h3>
