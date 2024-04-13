@@ -1,5 +1,5 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! 😄
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bXZwZGs4aGtjcGN2cWhvY20waHV3eGd0NXd5YWt2ejg1MmgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8iSQBOOhFEgGDocnxX/giphy.gif" width="25px">
   
 <a href="https://lit.link/hirotoshiuchida">![](https://img.shields.io/badge/lit.link-hirotoshiuchida-00FFFF)</a>
 
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 ![](https://raw.githubusercontent.com/Uchida16104/Uchida16104/output/github-contribution-grid-snake-dark.svg)
 <br>
-<h3 align="left">Best Regards! 😃</h3>
+<h3 align="left">Best Regards! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bXZwZGs4aGtjcGN2cWhvY20waHV3eGd0NXd5YWt2ejg1MmgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8iSQBOOhFEgGDocnxX/giphy.gif" width="25px"></h3>
