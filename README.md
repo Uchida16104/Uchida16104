@@ -9,13 +9,13 @@
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oMjIxdmtvYWRhMjNiMHdkZjQ2d2VrYTY4bm1qN240YjZveHo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="25px"> I’m currently learning **mainly php or sql knowledges.**
 
-- 👨‍💻 All of my projects are **[available](https://hearthis.at/hirotoshi-uchida).**
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5uNW90eG54ZXNkZm1hemEzNzBrZGxncTA2ZjJlNWZ4MW5zZnUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OGSU60QOHwrpBn33w/giphy.gif" width="25px"> All of my projects are **[available](https://hearthis.at/hirotoshi-uchida).**
 
-- 💬 Ask me about **western music history, or making art contents (includes creative coding), etc...**
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtoeDJoZHY5bHczdWltc2hsN2tvamx3cHg3aTB2YTdvbnhhbm1pciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jOgyNBSHNqCuIv7gMa/giphy.gif" width="25px"> Ask me about **western music history, or making art contents (includes creative coding), etc...**
 
-- 📄 Know about **[my experiences](https://g.co/kgs/QZYfA8).**
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lleHE2YXlhdmVzZm82amptZWZhODNmaTZ3eXkxNGZnYmMxNXBwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rpTYcGKb95Z27AxQom/giphy.gif" width="25px"> Know about **[my experiences](https://g.co/kgs/QZYfA8).**
 
-- ⚡ Anamnesis tag: **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVvNGRkbzk2Yzd0dm5jMm4yem9jdzUyNXFrZ2pzZ3JrdHFzejVsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7v1o8qOpkCo4A4a6ZU/giphy.gif" width="25px"> Anamnesis tag: **#hydrocephalus #developmental_disorder #epilepsy #eczema #color_blindness**
 
 <strong><i><a href="https://272yk3.csb.app/">Show the animation above</a></i></strong>
 
