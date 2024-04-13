@@ -7,7 +7,7 @@
 
 <h3 align="center">I mainly upload my portfolio at here.</h3>
 
-- 🌱 I’m currently learning **mainly php or sql knowledges.**
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oMjIxdmtvYWRhMjNiMHdkZjQ2d2VrYTY4bm1qN240YjZveHo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="25px"> I’m currently learning **mainly php or sql knowledges.**
 
 - 👨‍💻 All of my projects are **[available](https://hearthis.at/hirotoshi-uchida).**
 
