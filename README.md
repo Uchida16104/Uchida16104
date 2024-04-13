@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hirotoshiuchida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirotoshiuchida" height="30" width="40" /></a>
+<a href="https://instagram.com/hirotoshiuchida" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F5OWxuY3RiMHAzODBnd3lpaHcycml1cjUzMXJrbjM5NGtsc2FoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eTtXHP8CyQHHa4M8EM/giphy.gif" alt="hirotoshiuchida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
