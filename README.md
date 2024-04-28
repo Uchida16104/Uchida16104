@@ -1,5 +1,5 @@
 <!-- From https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bXZwZGs4aGtjcGN2cWhvY20waHV3eGd0NXd5YWt2ejg1MmgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8iSQBOOhFEgGDocnxX/giphy.gif" width="25px">
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/Uchida16104/">Uchida16104</a>! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bXZwZGs4aGtjcGN2cWhvY20waHV3eGd0NXd5YWt2ejg1MmgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8iSQBOOhFEgGDocnxX/giphy.gif" width="25px">
   
 <a href="https://lit.link/hirotoshiuchida">![](https://img.shields.io/badge/lit.link-hirotoshiuchida-00FFFF)</a>
 
