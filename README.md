@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">I mainly upload my portfolio at here.</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=435&lines=I+mainly+upload+my+portfolio+at+here." alt="Typing SVG" /></a></h3>
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oMjIxdmtvYWRhMjNiMHdkZjQ2d2VrYTY4bm1qN240YjZveHo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="25px"> I’m currently learning **mainly php or sql knowledges.**
 
