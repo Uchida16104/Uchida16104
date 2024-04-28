@@ -9,7 +9,7 @@
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oMjIxdmtvYWRhMjNiMHdkZjQ2d2VrYTY4bm1qN240YjZveHo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="30px"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=FFFFFF&random=false&width=700&height=30&lines=I%E2%80%99m+currently+learning+mainly+php+or+sql+knowledges." alt="Typing SVG" />
 
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5uNW90eG54ZXNkZm1hemEzNzBrZGxncTA2ZjJlNWZ4MW5zZnUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OGSU60QOHwrpBn33w/giphy.gif" width="30px">><a href="https://lit.link/hirotoshiuchida"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=FFFFFF&random=true&width=700&height=30&lines=All+of+my+projects+are+available." alt="Typing SVG" /></a>
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5uNW90eG54ZXNkZm1hemEzNzBrZGxncTA2ZjJlNWZ4MW5zZnUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OGSU60QOHwrpBn33w/giphy.gif" width="30px"><a href="https://lit.link/hirotoshiuchida"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=FFFFFF&random=true&width=700&height=30&lines=All+of+my+projects+are+available." alt="Typing SVG" /></a>
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtoeDJoZHY5bHczdWltc2hsN2tvamx3cHg3aTB2YTdvbnhhbm1pciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jOgyNBSHNqCuIv7gMa/giphy.gif" width="30px"> <img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=FFFFFF&random=true&width=700&height=30&lines=Ask+me+about+western+music+history%2C+or+making+art+contents+(includes+creative+coding)%2C+etc..." alt="Typing SVG" />
 
