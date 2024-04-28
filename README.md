@@ -7,7 +7,7 @@
 
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=435&lines=I+mainly+upload+my+portfolio+at+here." alt="Typing SVG" /></h3>
 
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oMjIxdmtvYWRhMjNiMHdkZjQ2d2VrYTY4bm1qN240YjZveHo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="25px"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=600&lines=I%E2%80%99m+currently+learning+mainly+php+or+sql+knowledges." alt="Typing SVG" />
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oMjIxdmtvYWRhMjNiMHdkZjQ2d2VrYTY4bm1qN240YjZveHo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="25px"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=500&lines=I%E2%80%99m+currently+learning+mainly+php+or+sql+knowledges." alt="Typing SVG" />
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5uNW90eG54ZXNkZm1hemEzNzBrZGxncTA2ZjJlNWZ4MW5zZnUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OGSU60QOHwrpBn33w/giphy.gif" width="25px"> All of my projects are **[available](https://hearthis.at/hirotoshi-uchida).**
 
