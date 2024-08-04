@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Uchida16104&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Uchida16104/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uchida16104&bg_color=0d1117&color=00ffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://raw.githubusercontent.com/Uchida16104/Uchida16104/output/github-contribution-grid-snake-dark.svg)
-</details>
 
 <br>
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=00FFFF&random=true&width=100&height=30&lines=Best+Regards!" alt="Typing SVG" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bXZwZGs4aGtjcGN2cWhvY20waHV3eGd0NXd5YWt2ejg1MmgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8iSQBOOhFEgGDocnxX/giphy.gif" width="30px"></h3>
+</details>
