@@ -28,8 +28,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=00FFFF&random=true&width=700&height=30&lines=Status)](https://git.io/typing-svg)
 
-<iframe src="https://feed.mikle.com/widget/v2/168407/?preloader-text=Loading&" height="494px" width="400px" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
-
 <!--
 **Uchida16104/Uchida16104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,6 +42,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://feed.mikle.com/widget/v2/168407/?preloader-text=Loading&)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uchida16104&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uchida16104&theme=dark)
