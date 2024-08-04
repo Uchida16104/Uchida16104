@@ -16,6 +16,10 @@
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVvNGRkbzk2Yzd0dm5jMm4yem9jdzUyNXFrZ2pzZ3JrdHFzejVsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7v1o8qOpkCo4A4a6ZU/giphy.gif" width="30px"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=00FFFF&random=true&width=700&height=30&lines=Anamnesis+tag%3A+%23hydrocephalus+%23developmental_disorder+%23epilepsy+%23eczema+%23color_blindness" alt="Typing SVG" />
 
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="168407/"></script>
+<!-- end feedwind code -->
+
 <strong><i><a href="https://272yk3.csb.app/"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=00FFFF&random=true&width=700&height=30&lines=Show+the+animation+above." alt="Typing SVG" /></a></i></strong>
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=00FFFF&random=true&width=700&height=30&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
