@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Uchida16104&theme=dark&hide_border=true&ring=FF0E02&background=45%2C0D1117%2C181818&border=F3FF00&stroke=EB9B0000&fire=EB8900&currStreakNum=FFFA00&sideNums=00FF0C&currStreakLabel=00FBFF&sideLabels=FF00FB&dates=008DFF&excludeDaysLabel=FFFFFF00)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchida16104&langs_count=3&theme=dark&hide_border=true)
 ![](https://raw.githubusercontent.com/Uchida16104/Uchida16104/output/github-contribution-grid-snake-dark.svg)
-
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21ita5n3d6bylteyv7oemnxxq&unique=1&duration=1&album=1)
 <br>
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=00FFFF&random=true&width=100&height=30&lines=Best+Regards!" alt="Typing SVG" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg4bXZwZGs4aGtjcGN2cWhvY20waHV3eGd0NXd5YWt2ejg1MmgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8iSQBOOhFEgGDocnxX/giphy.gif" width="30px"></h3>
